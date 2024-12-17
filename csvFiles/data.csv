@@ -1,0 +1,649 @@
+pokemon,helditem,ability,type,move1,move2,move3,move4,rank
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Dazzling Gleam,Volt Switch,1
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Spiky Shield,Ivy Cudgel,Wood Hammer,Follow Me,1
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Detect,Surging Strikes,Close Combat,Aqua Jet,1
+Iron Hands,Assault Vest,Quark Drive,Bug,Drain Punch,Wild Charge,Fake Out,Low Kick,1
+Whimsicott,Covert Cloak,Prankster,Dark,Moonblast,Encore,Light Screen,Tailwind,1
+Farigiraf,Electric Seed,Armor Tail,Water,Psychic Noise,Foul Play,Helping Hand,Trick Room,1
+Landorus,Choice Scarf,Sheer Force,Ghost,Earth Power,Sandsear Storm,Sludge Bomb,U-turn,2
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Detect,2
+Iron Valiant,Booster Energy,Quark Drive,Ghost,Spirit Break,Wide Guard,Encore,Coaching,2
+Pelipper,Life Orb,Drizzle,Grass,Weather Ball,Hurricane,Helping Hand,Wide Guard,2
+Amoonguss,Rocky Helmet,Regenerator,Fire,Spore,Pollen Puff,Rage Powder,Clear Smog,2
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Grass,Glacial Lance,High Horsepower,Trick Room,Protect,2
+Flutter Mane,Booster Energy,Protosynthesis,Grass,Moonblast,Shadow Ball,Icy Wind,Protect,3
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Icicle Crash,Throat Chop,Sucker Punch,Protect,3
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,3
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,3
+Urshifu-Rapid-Strike,Safety Goggles,Unseen Fist,Water,Surging Strikes,Aqua Jet,Substitute,Protect,3
+Entei,Choice Band,Inner Focus,Normal,Sacred Fire,Extreme Speed,Stone Edge,Flare Blitz,3
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Dazzling Gleam,Volt Switch,4
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,4
+Whimsicott,Covert Cloak,Prankster,Water,Tailwind,Moonblast,Encore,Light Screen,4
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Drain Punch,Low Kick,Heavy Slam,4
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Protect,4
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Protect,4
+Farigiraf,Electric Seed,Armor Tail,Water,Trick Room,Psychic,Foul Play,Helping Hand,4
+Ursaluna,Flame Orb,Guts,Fairy,Facade,Headlong Rush,Earthquake,Protect,5
+Ogerpon-Wellspring,Wellspring Mask,Water Absorb,Water,Ivy Cudgel,Wood Hammer,Follow Me,Taunt,5
+Gallade,Psychic Seed,Sharpness,Fire,Sacred Sword,Psycho Cut,Wide Guard,Trick Room,5
+Indeedee-F,Rocky Helmet,Psychic Surge,Dragon,Follow Me,Heal Pulse,Helping Hand,Trick Room,5
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Dragon,Glacial Lance,High Horsepower,Imprison,Trick Room,5
+Torkoal,Assault Vest,Drought,Grass,Eruption,Weather Ball,Solar Beam,Clear Smog,5
+Gholdengo,Choice Specs,Good as Gold,Steel,Shadow Ball,Trick,Make It Rain,Thunderbolt,6
+Miraidon,Assault Vest,Hadron Engine,Fairy,Volt Switch,Draco Meteor,Electro Drift,Dazzling Gleam,6
+Dondozo,Leftovers,Unaware,Grass,Order Up,Protect,Wave Crash,Earthquake,6
+Dragonite,Choice Band,Multiscale,Normal,Iron Head,Aerial Ace,Extreme Speed,Outrage,6
+Tatsugiri,Choice Scarf,Commander,Normal,Muddy Water,Icy Wind,Draco Meteor,Sleep Talk,6
+Chi-Yu,Focus Sash,Beads of Ruin,Ghost,Heat Wave,Protect,Dark Pulse,Overheat,6
+Farigiraf,Safety Goggles,Armor Tail,Steel,Foul Play,Helping Hand,Trick Room,Psychic,7
+Landorus,Life Orb,Sheer Force,Poison,Protect,Sludge Bomb,Earth Power,Sandsear Storm,7
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Water,Trick Room,Glacial Lance,Protect,High Horsepower,7
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Follow Me,Power Whip,Spiky Shield,7
+Urshifu-Rapid-Strike,Mystic Water,Unseen Fist,Normal,Detect,Close Combat,Surging Strikes,Aqua Jet,7
+Regieleki,Focus Sash,Transistor,Electric,Protect,Electroweb,Thunderbolt,Volt Switch,7
+Chien-Pao,Focus Sash,Sword of Ruin,Stellar,Icicle Crash,Sucker Punch,Sacred Sword,Protect,8
+Incineroar,Rocky Helmet,Intimidate,Ghost,Fake Out,Knock Off,Parting Shot,Will-O-Wisp,8
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Tera Starstorm,Calm Mind,Substitute,Protect,8
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Icy Wind,Thunder Wave,Protect,8
+Rillaboom,Assault Vest,Grassy Surge,Grass,Fake Out,Wood Hammer,Grassy Glide,U-turn,8
+Urshifu-Rapid-Strike,Splash Plate,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Detect,8
+Incineroar,Rocky Helmet,Intimidate,Ghost,Knock Off,Parting Shot,Will-O-Wisp,Fake Out,9
+Urshifu-Rapid-Strike,Mystic Water,Unseen Fist,Poison,Surging Strikes,Close Combat,Aqua Jet,Detect,9
+Rillaboom,Assault Vest,Grassy Surge,Grass,Wood Hammer,Grassy Glide,U-turn,Fake Out,9
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Icy Wind,Thunder Wave,Protect,9
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Tera Starstorm,Calm Mind,Substitute,Protect,9
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,9
+Calyrex-Shadow,Life Orb,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Nasty Plot,Protect,10
+Incineroar,Rocky Helmet,Intimidate,Water,Knock Off,Will-O-Wisp,Parting Shot,Fake Out,10
+Rillaboom,Assault Vest,Grassy Surge,Fire,Grassy Glide,Fake Out,U-turn,Wood Hammer,10
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Taunt,Detect,10
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Draco Meteor,Thunderclap,Thunderbolt,Protect,10
+Clefairy,Eviolite,Friend Guard,Ground,Follow Me,Helping Hand,Sing,Protect,10
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,11
+Rillaboom,Assault Vest,Grassy Surge,Fire,U-turn,Wood Hammer,Grassy Glide,Fake Out,11
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Thunderbolt,Draco Meteor,Thunderclap,Protect,11
+Calyrex-Shadow,Spell Tag,As One (Spectrier),Normal,Astral Barrage,Psychic,Nasty Plot,Protect,11
+Incineroar,Rocky Helmet,Intimidate,Water,Parting Shot,Flare Blitz,Knock Off,Fake Out,11
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Grassy Glide,Spiky Shield,Follow Me,11
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,U-turn,Rock Tomb,12
+Tatsugiri-Droopy,Focus Sash,Commander,Stellar,Draco Meteor,Muddy Water,Helping Hand,Protect,12
+Calyrex-Shadow,Life Orb,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Pollen Puff,Protect,12
+Weezing-Galar,Mental Herb,Neutralizing Gas,Grass,Toxic Spikes,Dazzling Gleam,Poison Gas,Protect,12
+Indeedee-F,Safety Goggles,Psychic Surge,Water,Follow Me,Helping Hand,Psyshock,Trick Room,12
+Dondozo,Leftovers,Unaware,Grass,Wave Crash,Order Up,Protect,Body Press,12
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,13
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,13
+Farigiraf,Throat Spray,Armor Tail,Water,Hyper Voice,Shadow Ball,Trick Room,Helping Hand,13
+Rillaboom,Assault Vest,Grassy Surge,Grass,Wood Hammer,Grassy Glide,U-turn,Fake Out,13
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Detect,13
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Protect,13
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Ghost,Surging Strikes,Close Combat,U-turn,Aqua Jet,14
+Kyogre,Leftovers,Drizzle,Grass,Origin Pulse,Ice Beam,Calm Mind,Protect,14
+Roaring Moon,Booster Energy,Protosynthesis,Flying,Knock Off,Acrobatics,Tailwind,Protect,14
+Rillaboom,Assault Vest,Grassy Surge,Fire,Drum Beating,Grassy Glide,Fake Out,U-turn,14
+Amoonguss,Rocky Helmet,Regenerator,Steel,Spore,Rage Powder,Sludge Bomb,Protect,14
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Parting Shot,Fake Out,Will-O-Wisp,14
+Flutter Mane,Booster Energy,Protosynthesis,Grass,Moonblast,Shadow Ball,Thunder Wave,Protect,15
+Latios,Soul Dew,Levitate,Steel,Luster Purge,Draco Meteor,Tailwind,Protect,15
+Rillaboom,Miracle Seed,Grassy Surge,Grass,Wood Hammer,Grassy Glide,Fake Out,Protect,15
+Landorus,Life Orb,Sheer Force,Poison,Earth Power,Sludge Bomb,Substitute,Protect,15
+Tyranitar,Focus Sash,Sand Stream,Ghost,Rock Slide,Knock Off,Taunt,Protect,15
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,15
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,16
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,16
+Chi-Yu,Safety Goggles,Beads of Ruin,Water,Overheat,Heat Wave,Snarl,Protect,16
+Amoonguss,Rocky Helmet,Regenerator,Water,Pollen Puff,Spore,Rage Powder,Protect,16
+Flutter Mane,Booster Energy,Protosynthesis,Normal,Moonblast,Icy Wind,Thunder Wave,Protect,16
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,16
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Draco Meteor,Thunderclap,Volt Switch,Electroweb,16
+Incineroar,Safety Goggles,Intimidate,Ghost,Fake Out,Parting Shot,Helping Hand,Knock Off,17
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Protect,Thunderbolt,Dragon Pulse,Thunderclap,17
+Calyrex-Shadow,Covert Cloak,As One (Spectrier),Water,Protect,Astral Barrage,Nasty Plot,Psyshock,17
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Wood Hammer,U-turn,Grassy Glide,17
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Detect,Surging Strikes,Close Combat,Aqua Jet,17
+Farigiraf,Throat Spray,Armor Tail,Grass,Protect,Psychic,Hyper Voice,Trick Room,17
+Chi-Yu,Covert Cloak,Beads of Ruin,Grass,Protect,Snarl,Heat Wave,Overheat,18
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Spiky Shield,Follow Me,Power Whip,Ivy Cudgel,18
+Calyrex-Ice,Never-Melt Ice,As One (Glastrier),Poison,Protect,Glacial Lance,High Horsepower,Trick Room,18
+Flutter Mane,Booster Energy,Protosynthesis,Normal,Protect,Dazzling Gleam,Icy Wind,Moonblast,18
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Surging Strikes,Close Combat,Detect,Aqua Jet,18
+Raging Bolt,Life Orb,Protosynthesis,Electric,Protect,Draco Meteor,Thunderbolt,Thunderclap,18
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,19
+Calyrex-Shadow,Spell Tag,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Nasty Plot,Protect,19
+Amoonguss,Rocky Helmet,Regenerator,Fairy,Spore,Sludge Bomb,Rage Powder,Protect,19
+Raging Bolt,Life Orb,Protosynthesis,Electric,Thunderbolt,Dragon Pulse,Thunderclap,Protect,19
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Grassy Glide,U-turn,Wood Hammer,19
+Incineroar,Covert Cloak,Intimidate,Ghost,Fake Out,Knock Off,Taunt,Parting Shot,19
+Zamazenta,Rusted Shield,Dauntless Shield,Grass,Body Press,Heavy Slam,Wide Guard,Protect,20
+Pelipper,Safety Goggles,Drizzle,Grass,Weather Ball,Hurricane,Wide Guard,Helping Hand,20
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Ghost,Surging Strikes,Close Combat,Coaching,U-turn,20
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Thunderclap,Dragon Pulse,Protect,20
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Ice Spinner,Throat Chop,Sucker Punch,Protect,20
+Amoonguss,Rocky Helmet,Regenerator,Dark,Spore,Rage Powder,Sludge Bomb,Protect,20
+Ditto,Choice Scarf,Imposter,Normal,Transform,,,,21
+Zacian,Rusted Sword,Intrepid Sword,Ground,Iron Head,Sacred Sword,Tera Blast,Protect,21
+Amoonguss,Rocky Helmet,Regenerator,Water,Spore,Sludge Bomb,Rage Powder,Protect,21
+Regidrago,Life Orb,Dragon's Maw,Ghost,Dragon Energy,Draco Meteor,Tera Blast,Protect,21
+Chi-Yu,Focus Sash,Beads of Ruin,Fire,Heat Wave,Overheat,Dark Pulse,Protect,21
+Whimsicott,Covert Cloak,Prankster,Steel,Moonblast,Tailwind,Sunny Day,Encore,21
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Normal,Glacial Lance,High Horsepower,Protect,Trick Room,22
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,22
+Landorus,Choice Scarf,Sheer Force,Ghost,Earth Power,Sandsear Storm,Sludge Bomb,U-turn,22
+Ogerpon,Loaded Dice,Defiant,Grass,Bullet Seed,Encore,Follow Me,Spiky Shield,22
+Pelipper,Safety Goggles,Drizzle,Grass,Weather Ball,Hurricane,Wide Guard,Helping Hand,22
+Incineroar,Rocky Helmet,Intimidate,Grass,Knock Off,Will-O-Wisp,Fake Out,Parting Shot,22
+Rillaboom,Clear Amulet,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,23
+Amoonguss,Mental Herb,Regenerator,Water,Spore,Sludge Bomb,Rage Powder,Protect,23
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Protect,23
+Calyrex-Shadow,Life Orb,As One (Spectrier),Dark,Astral Barrage,Psychic,Nasty Plot,Protect,23
+Raging Bolt,Assault Vest,Protosynthesis,Fairy,Electroweb,Volt Switch,Thunderclap,Draco Meteor,23
+Incineroar,Rocky Helmet,Intimidate,Water,Parting Shot,Knock Off,Helping Hand,Fake Out,23
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,24
+Miraidon,Choice Specs,Hadron Engine,Fairy,Dazzling Gleam,Draco Meteor,Electro Drift,Volt Switch,24
+Whimsicott,Covert Cloak,Prankster,Water,Tailwind,Moonblast,Encore,Light Screen,24
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Low Kick,Drain Punch,Heavy Slam,24
+Farigiraf,Electric Seed,Armor Tail,Water,Trick Room,Helping Hand,Psychic Noise,Foul Play,24
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,24
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,24
+Koraidon,Clear Amulet,Orichalcum Pulse,Fire,Protect,Flare Blitz,Collision Course,Flame Charge,25
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Volt Switch,Thunderclap,Draco Meteor,Thunderbolt,25
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Spiky Shield,Follow Me,25
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Protect,Icy Wind,Moonblast,Sunny Day,25
+Ditto,Focus Sash,Imposter,Ghost,Transform,,,,25
+Chi-Yu,Covert Cloak,Beads of Ruin,Water,Heat Wave,Snarl,Overheat,Taunt,25
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Spiky Shield,Follow Me,Ivy Cudgel,Wood Hammer,26
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Grass,Detect,Surging Strikes,Close Combat,Aqua Jet,26
+Landorus,Choice Scarf,Sheer Force,Ghost,Sandsear Storm,Earth Power,Sludge Bomb,Psychic,26
+Grimmsnarl,Covert Cloak,Prankster,Water,Thunder Wave,Foul Play,Reflect,Taunt,26
+Raging Bolt,Assault Vest,Protosynthesis,Poison,Thunderclap,Thunderbolt,Dragon Pulse,Electroweb,26
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Protect,Calm Mind,Tera Starstorm,Dark Pulse,26
+Smeargle,Focus Sash,Moody,Grass,Follow Me,Spore,Decorate,Quick Guard,27
+Tornadus,Rocky Helmet,Prankster,Dark,Tailwind,Protect,Scary Face,Bleakwind Storm,27
+Terapagos-Terastal,Choice Specs,Tera Shift,Stellar,Tera Starstorm,Earth Power,Dark Pulse,Dazzling Gleam,27
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Spiky Shield,Follow Me,Ivy Cudgel,Taunt,27
+Iron Hands,Assault Vest,Quark Drive,Grass,Drain Punch,Wild Charge,Heavy Slam,Fake Out,27
+Klefki,Light Clay,Prankster,Ghost,Light Screen,Reflect,Thunder Wave,Dazzling Gleam,27
+Kyogre,Assault Vest,Drizzle,Grass,Water Spout,Ice Beam,Origin Pulse,Thunder,28
+Urshifu-Rapid-Strike,Choice Band,Unseen Fist,Grass,Surging Strikes,Close Combat,Aqua Jet,U-turn,28
+Tornadus,Covert Cloak,Prankster,Dark,Tailwind,Rain Dance,Bleakwind Storm,Taunt,28
+Landorus,Choice Scarf,Sheer Force,Ghost,Sandsear Storm,Earth Power,Taunt,Sludge Bomb,28
+Tsareena,Wide Lens,Queenly Majesty,Ice,Protect,Power Whip,Triple Axel,Taunt,28
+Basculegion,Life Orb,Swift Swim,Grass,Protect,Wave Crash,Last Respects,Aqua Jet,28
+Grimmsnarl,Covert Cloak,Prankster,Water,Foul Play,Reflect,Thunder Wave,Taunt,29
+Landorus,Choice Scarf,Sheer Force,Ghost,Earth Power,Sandsear Storm,Sludge Bomb,Psychic,29
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Grass,Detect,Close Combat,Aqua Jet,Surging Strikes,29
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Spiky Shield,Follow Me,Ivy Cudgel,Wood Hammer,29
+Raging Bolt,Assault Vest,Protosynthesis,Poison,Electroweb,Thunderbolt,Thunderclap,Dragon Pulse,29
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Protect,Calm Mind,Tera Starstorm,Dark Pulse,29
+Calyrex-Shadow,Covert Cloak,As One (Spectrier),Fairy,Astral Barrage,Draining Kiss,Calm Mind,Protect,30
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,30
+Roaring Moon,Booster Energy,Protosynthesis,Flying,Knock Off,Acrobatics,Tailwind,Protect,30
+Incineroar,Rocky Helmet,Intimidate,Water,Flare Blitz,Parting Shot,Will-O-Wisp,Fake Out,30
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Taunt,Detect,30
+Clefairy,Eviolite,Friend Guard,Grass,Follow Me,Helping Hand,After You,Protect,30
+Urshifu-Rapid-Strike,Mystic Water,Unseen Fist,Grass,Surging Strikes,Close Combat,Aqua Jet,Protect,31
+Ursaluna,Flame Orb,Guts,Normal,Headlong Rush,Facade,Substitute,Protect,31
+Miraidon,Choice Specs,Hadron Engine,Ghost,Electro Drift,Volt Switch,Discharge,Dragon Pulse,31
+Iron Crown,Expert Belt,Quark Drive,Ground,Tachyon Cutter,Protect,Psychic Noise,Tera Blast,31
+Incineroar,Assault Vest,Intimidate,Dragon,Flare Blitz,Fake Out,U-turn,Knock Off,31
+Whimsicott,Focus Sash,Prankster,Ghost,Moonblast,Encore,Protect,Tailwind,31
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Drain Punch,Wild Charge,Heavy Slam,32
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,32
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,32
+Farigiraf,Electric Seed,Armor Tail,Water,Psychic Noise,Foul Play,Trick Room,Helping Hand,32
+Chi-Yu,Choice Scarf,Beads of Ruin,Fire,Overheat,Heat Wave,Snarl,Flamethrower,32
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Volt Switch,Draco Meteor,Dazzling Gleam,32
+Whimsicott,Covert Cloak,Prankster,Fire,Moonblast,Tailwind,Encore,Light Screen,32
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,33
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Detect,33
+Rillaboom,Assault Vest,Grassy Surge,Grass,Wood Hammer,Grassy Glide,U-turn,Fake Out,33
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Protect,33
+Farigiraf,Throat Spray,Armor Tail,Water,Hyper Voice,Shadow Ball,Trick Room,Helping Hand,33
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,33
+Rillaboom,Assault Vest,Grassy Surge,Normal,Wood Hammer,Fake Out,High Horsepower,Grassy Glide,34
+Zacian,Rusted Sword,Intrepid Sword,Fairy,Iron Head,Swords Dance,Protect,Play Rough,34
+Urshifu-Rapid-Strike,Mystic Water,Unseen Fist,Grass,Close Combat,Detect,Surging Strikes,Aqua Jet,34
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Sacred Sword,Icicle Crash,Protect,Sucker Punch,34
+Umbreon,Safety Goggles,Inner Focus,Water,Snarl,Taunt,Foul Play,Yawn,34
+Tornadus,Covert Cloak,Prankster,Dark,Bleakwind Storm,Rain Dance,Protect,Tailwind,34
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Follow Me,Taunt,Spiky Shield,35
+Tornadus,Rocky Helmet,Prankster,Dark,Tailwind,Scary Face,Protect,Bleakwind Storm,35
+Smeargle,Focus Sash,Moody,Grass,Follow Me,Spore,Decorate,Quick Guard,35
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Drain Punch,Wild Charge,Heavy Slam,35
+Terapagos-Terastal,Choice Specs,Tera Shift,Stellar,Tera Starstorm,Earth Power,Dazzling Gleam,Dark Pulse,35
+Klefki,Light Clay,Prankster,Ghost,Reflect,Light Screen,Thunder Wave,Dazzling Gleam,35
+Clefairy,Eviolite,Friend Guard,Ground,Follow Me,Helping Hand,After You,Protect,36
+Calyrex-Shadow,Life Orb,As One (Spectrier),Grass,Astral Barrage,Giga Drain,Nasty Plot,Protect,36
+Urshifu-Rapid-Strike,Mystic Water,Unseen Fist,Water,Surging Strikes,Close Combat,Taunt,Detect,36
+Tornadus,Covert Cloak,Prankster,Dark,Bleakwind Storm,Tailwind,Rain Dance,Taunt,36
+Iron Hands,Assault Vest,Quark Drive,Fire,Fake Out,Wild Charge,Drain Punch,Volt Switch,36
+Smeargle,Focus Sash,Moody,Ghost,Wide Guard,Spore,Spiky Shield,Follow Me,36
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Tera Starstorm,Protect,Substitute,Calm Mind,37
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,U-turn,Grassy Glide,Fake Out,37
+Incineroar,Rocky Helmet,Intimidate,Ghost,Knock Off,Will-O-Wisp,Fake Out,Parting Shot,37
+Annihilape,Choice Scarf,Defiant,Grass,Final Gambit,Close Combat,U-turn,Shadow Claw,37
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Grassy Glide,Follow Me,Spiky Shield,37
+Scream Tail,Booster Energy,Protosynthesis,Ghost,Play Rough,Encore,Disable,Protect,37
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Volt Switch,Dazzling Gleam,Draco Meteor,38
+Farigiraf,Electric Seed,Armor Tail,Water,Foul Play,Psychic Noise,Trick Room,Helping Hand,38
+Whimsicott,Covert Cloak,Prankster,Fire,Encore,Light Screen,Moonblast,Tailwind,38
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,38
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Wood Hammer,Spiky Shield,Taunt,38
+Iron Hands,Assault Vest,Quark Drive,Bug,Low Kick,Drain Punch,Fake Out,Wild Charge,38
+Flutter Mane,Booster Energy,Protosynthesis,Grass,Moonblast,Icy Wind,Thunder Wave,Protect,39
+Chi-Yu,Covert Cloak,Beads of Ruin,Grass,Heat Wave,Snarl,Overheat,Protect,39
+Latios,Life Orb,Levitate,Steel,Luster Purge,Draco Meteor,Tailwind,Protect,39
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,39
+Rillaboom,Choice Band,Grassy Surge,Grass,Grassy Glide,Wood Hammer,High Horsepower,U-turn,39
+Tyranitar,Focus Sash,Sand Stream,Ghost,Rock Slide,Knock Off,Stone Edge,Protect,39
+Grimmsnarl,Light Clay,Prankster,Ghost,Reflect,Light Screen,Thunder Wave,Spirit Break,40
+Zamazenta,Rusted Shield,Dauntless Shield,Grass,Protect,Body Press,Iron Defense,Heavy Slam,40
+Gholdengo,Life Orb,Good as Gold,Normal,Protect,Nasty Plot,Shadow Ball,Make It Rain,40
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Grassy Glide,Wood Hammer,U-turn,40
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Protect,Icicle Crash,Sucker Punch,Throat Chop,40
+Pelipper,Safety Goggles,Drizzle,Ghost,Protect,Hurricane,Weather Ball,Wide Guard,40
+Urshifu-Rapid-Strike,Life Orb,Unseen Fist,Ghost,Surging Strikes,Close Combat,Taunt,Protect,41
+Okidogi,Assault Vest,Guard Dog,Grass,Gunk Shot,Drain Punch,Knock Off,Upper Hand,41
+Indeedee-F,Safety Goggles,Psychic Surge,Water,Alluring Voice,Follow Me,Helping Hand,Trick Room,41
+Ursaluna,Flame Orb,Guts,Ghost,Facade,Headlong Rush,Earthquake,Protect,41
+Whimsicott,Covert Cloak,Prankster,Dark,Grass Knot,Tailwind,Encore,Light Screen,41
+Lunala,Power Herb,Shadow Shield,Grass,Moongeist Beam,Meteor Beam,Expanding Force,Trick Room,41
+Farigiraf,Electric Seed,Armor Tail,Water,Psychic,Helping Hand,Trick Room,Foul Play,42
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Wood Hammer,Follow Me,Spiky Shield,42
+Whimsicott,Covert Cloak,Prankster,Dark,Moonblast,Tailwind,Light Screen,Encore,42
+Iron Hands,Assault Vest,Quark Drive,Grass,Low Kick,Wild Charge,Drain Punch,Fake Out,42
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Close Combat,Surging Strikes,Aqua Jet,Detect,42
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Volt Switch,Dazzling Gleam,42
+Urshifu,Dread Plate,Unseen Fist,Water,Wicked Blow,Sucker Punch,Coaching,Detect,43
+Urshifu,Dread Plate,Unseen Fist,Water,Wicked Blow,Sucker Punch,Coaching,Detect,43
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Bullet Seed,Follow Me,Spiky Shield,43
+Raging Bolt,Focus Sash,Protosynthesis,Stellar,Thunderbolt,Draco Meteor,Thunderclap,Protect,43
+Iron Hands,Assault Vest,Quark Drive,Fairy,Drain Punch,Low Kick,Wild Charge,Fake Out,43
+Groudon,Clear Amulet,Drought,Fire,Precipice Blades,Heat Crash,Bulk Up,Protect,43
+Iron Jugulis,Booster Energy,Quark Drive,Steel,Air Slash,Snarl,Tailwind,Protect,43
+Ditto,Choice Scarf,Imposter,Ghost,Transform,,,,44
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Icicle Crash,Lash Out,Sucker Punch,Protect,44
+Rillaboom,Miracle Seed,Grassy Surge,Grass,Grassy Glide,Wood Hammer,Fake Out,Protect,44
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Shadow Ball,Thunder Wave,Taunt,44
+Entei,Choice Band,Inner Focus,Normal,Sacred Fire,Extreme Speed,Stomping Tantrum,Flare Blitz,44
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,44
+Calyrex-Shadow,Choice Specs,As One (Spectrier),Normal,Astral Barrage,Psychic,Pollen Puff,Hyper Beam,45
+Weezing-Galar,Covert Cloak,Neutralizing Gas,Dark,Strange Steam,Poison Gas,Toxic Spikes,Sludge Bomb,45
+Mienshao,Focus Sash,Inner Focus,Fighting,Close Combat,Fake Out,Feint,Wide Guard,45
+Dondozo,Leftovers,Unaware,Grass,Body Press,Order Up,Earthquake,Protect,45
+Chi-Yu,Choice Scarf,Beads of Ruin,Ghost,Overheat,Heat Wave,Dark Pulse,Snarl,45
+Tatsugiri-Droopy,Assault Vest,Commander,Fairy,Draco Meteor,Muddy Water,Mirror Coat,Counter,45
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,U-turn,Grassy Glide,Fake Out,46
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,U-turn,Rock Tomb,46
+Calyrex-Shadow,Covert Cloak,As One (Spectrier),Fairy,Protect,Astral Barrage,Draining Kiss,Calm Mind,46
+Mienshao,Focus Sash,Inner Focus,Fighting,Close Combat,Taunt,Wide Guard,Fake Out,46
+Clefairy,Eviolite,Friend Guard,Grass,Protect,Follow Me,Helping Hand,Sing,46
+Incineroar,Safety Goggles,Intimidate,Water,Knock Off,Will-O-Wisp,Parting Shot,Fake Out,46
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Protect,Aqua Jet,47
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,Grassy Glide,Fake Out,U-turn,47
+Clefairy,Eviolite,Friend Guard,Ground,Follow Me,Helping Hand,Heal Pulse,Protect,47
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Thunderclap,Draco Meteor,Protect,47
+Calyrex-Shadow,Life Orb,As One (Spectrier),Normal,Astral Barrage,Psychic,Nasty Plot,Protect,47
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Grassy Glide,Follow Me,Spiky Shield,47
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Spiky Shield,Ivy Cudgel,Taunt,Follow Me,48
+Smeargle,Focus Sash,Moody,Grass,Spore,Fake Out,Wide Guard,Follow Me,48
+Clefairy,Eviolite,Friend Guard,Water,Protect,Follow Me,Helping Hand,Sing,48
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,U-turn,Aqua Jet,48
+Calyrex-Shadow,Covert Cloak,As One (Spectrier),Fairy,Protect,Astral Barrage,Draining Kiss,Calm Mind,48
+Rillaboom,Assault Vest,Grassy Surge,Fire,Grassy Glide,Wood Hammer,U-turn,Fake Out,48
+Amoonguss,Rocky Helmet,Regenerator,Fairy,Spore,Pollen Puff,Protect,Rage Powder,49
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,Coaching,U-turn,49
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Protect,Blood Moon,Hyper Voice,Earth Power,49
+Farigiraf,Sitrus Berry,Armor Tail,Grass,Trick Room,Foul Play,Psychic,Helping Hand,49
+Calyrex-Ice,Never-Melt Ice,As One (Glastrier),Fire,Glacial Lance,Protect,Trick Room,High Horsepower,49
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Wild Charge,Volt Switch,Drain Punch,49
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Detect,Close Combat,Aqua Jet,50
+Rillaboom,Assault Vest,Grassy Surge,Fire,U-turn,Grassy Glide,Wood Hammer,Fake Out,50
+Calyrex-Shadow,Life Orb,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Pollen Puff,Protect,50
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Protect,Thunderclap,Thunderbolt,Draco Meteor,50
+Indeedee-F,Rocky Helmet,Psychic Surge,Dragon,Dazzling Gleam,Follow Me,Helping Hand,Trick Room,50
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Will-O-Wisp,Fake Out,Parting Shot,50
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Power Whip,Ivy Cudgel,Follow Me,Spiky Shield,51
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Volt Switch,51
+Chi-Yu,Covert Cloak,Beads of Ruin,Water,Snarl,Heat Wave,Overheat,Taunt,51
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Icy Wind,Sunny Day,Protect,51
+Koraidon,Clear Amulet,Orichalcum Pulse,Fire,Collision Course,Flare Blitz,Flame Charge,Protect,51
+Ditto,Focus Sash,Imposter,Ghost,Transform,,,,51
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Iron Defense,Heavy Slam,Protect,52
+Scream Tail,Booster Energy,Protosynthesis,Grass,Dazzling Gleam,Encore,Disable,Protect,52
+Chien-Pao,Focus Sash,Sword of Ruin,Dark,Icicle Crash,Sucker Punch,Crunch,Protect,52
+Talonflame,Life Orb,Gale Wings,Ghost,Brave Bird,Tailwind,Flare Blitz,Protect,52
+Grimmsnarl,Light Clay,Prankster,Ghost,Foul Play,Reflect,Light Screen,Misty Terrain,52
+Dragonite,Choice Band,Inner Focus,Normal,Extreme Speed,Aerial Ace,Outrage,Safeguard,52
+Baxcalibur,Loaded Dice,Thermal Exchange,Poison,Icicle Spear,Scale Shot,Swords Dance,Protect,53
+Indeedee-F,Rocky Helmet,Psychic Surge,Grass,Dazzling Gleam,Helping Hand,Follow Me,Trick Room,53
+Kyogre,Choice Scarf,Drizzle,Water,Water Spout,Hydro Pump,Thunder,Origin Pulse,53
+Slowking,Life Orb,Regenerator,Grass,Expanding Force,Scald,Grass Knot,Trick Room,53
+Smeargle,Focus Sash,Moody,Ghost,Spore,Follow Me,Shed Tail,Fake Out,53
+Weezing-Galar,Assault Vest,Neutralizing Gas,Normal,Gunk Shot,Play Rough,Assurance,Explosion,53
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Wood Hammer,Grassy Glide,U-turn,54
+Ogerpon-Wellspring,Wellspring Mask,Water Absorb,Water,Ivy Cudgel,Encore,Follow Me,Spiky Shield,54
+Incineroar,Rocky Helmet,Intimidate,Water,Fake Out,Parting Shot,Flare Blitz,Knock Off,54
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Taunt,Detect,54
+Calyrex-Shadow,Covert Cloak,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Nasty Plot,Protect,54
+Indeedee-F,Psychic Seed,Psychic Surge,Fairy,Alluring Voice,Trick Room,Helping Hand,Follow Me,54
+Indeedee-F,Psychic Seed,Psychic Surge,Dragon,Follow Me,Helping Hand,Trick Room,Alluring Voice,55
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Protect,Blood Moon,Earth Power,Hyper Voice,55
+Urshifu,Choice Band,Unseen Fist,Grass,Wicked Blow,Close Combat,Sucker Punch,Iron Head,55
+Urshifu,Choice Band,Unseen Fist,Grass,Wicked Blow,Close Combat,Sucker Punch,Iron Head,55
+Smeargle,Focus Sash,Technician,Grass,Spore,Fake Out,Follow Me,Decorate,55
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Protect,Glacial Lance,Close Combat,Trick Room,55
+Annihilape,Choice Scarf,Defiant,Grass,Close Combat,Shadow Claw,U-turn,Final Gambit,55
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Spiky Shield,Ivy Cudgel,Horn Leech,Follow Me,56
+Landorus,Choice Scarf,Sheer Force,Flying,Earth Power,Sandsear Storm,Sludge Bomb,Tera Blast,56
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Detect,Surging Strikes,Close Combat,Aqua Jet,56
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Protect,Glacial Lance,High Horsepower,Trick Room,56
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Protect,Thunderbolt,Draco Meteor,Thunderclap,56
+Farigiraf,Mirror Herb,Armor Tail,Fairy,Hyper Voice,Shadow Ball,Helping Hand,Trick Room,56
+Ting-Lu,Rocky Helmet,Vessel of Ruin,Fairy,Ruination,Sand Tomb,Protect,Stealth Rock,57
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,High Horsepower,U-turn,Fake Out,57
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,57
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Thunderclap,Draco Meteor,Electroweb,Protect,57
+Dondozo,Leftovers,Oblivious,Dragon,Fissure,Wave Crash,Yawn,Protect,57
+Calyrex-Shadow,Focus Sash,As One (Spectrier),Ghost,Astral Barrage,Psyshock,Taunt,Protect,57
+Tornadus,Covert Cloak,Prankster,Dark,Bleakwind Storm,Tailwind,Rain Dance,Taunt,58
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Icy Wind,Helping Hand,Protect,58
+Kyogre,Mystic Water,Drizzle,Grass,Water Spout,Origin Pulse,Ice Beam,Protect,58
+Tsareena,Wide Lens,Queenly Majesty,Ice,Power Whip,Triple Axel,U-turn,Helping Hand,58
+Ditto,Focus Sash,Imposter,Ghost,Transform,,,,58
+Iron Hands,Assault Vest,Quark Drive,Water,Drain Punch,Low Kick,Wild Charge,Fake Out,58
+Incineroar,Safety Goggles,Intimidate,Water,Knock Off,Will-O-Wisp,Parting Shot,Fake Out,59
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Brick Break,Follow Me,Spiky Shield,59
+Calyrex-Shadow,Life Orb,As One (Spectrier),Dark,Astral Barrage,Psychic,Nasty Plot,Protect,59
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Taunt,Detect,59
+Rillaboom,Assault Vest,Grassy Surge,Grass,Wood Hammer,Grassy Glide,U-turn,Fake Out,59
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Rising Voltage,Draco Meteor,Thunderclap,Protect,59
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Detect,Close Combat,Sucker Punch,60
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Detect,Close Combat,Sucker Punch,60
+Miraidon,Choice Specs,Hadron Engine,Fairy,Draco Meteor,Volt Switch,Electro Drift,Dazzling Gleam,60
+Iron Hands,Assault Vest,Quark Drive,Poison,Fake Out,Drain Punch,Wild Charge,Heavy Slam,60
+Whimsicott,Covert Cloak,Prankster,Fire,Tailwind,Encore,Light Screen,Moonblast,60
+Landorus,Life Orb,Sheer Force,Fire,Earth Power,Protect,Sandsear Storm,Sludge Bomb,60
+Gholdengo,Iron Plate,Good as Gold,Steel,Make It Rain,Shadow Ball,Protect,Nasty Plot,60
+Whimsicott,Covert Cloak,Prankster,Dark,Moonblast,Tailwind,Encore,Light Screen,61
+Iron Hands,Assault Vest,Quark Drive,Grass,Drain Punch,Heavy Slam,Fake Out,Wild Charge,61
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Volt Switch,Dazzling Gleam,61
+Farigiraf,Electric Seed,Armor Tail,Water,Psychic Noise,Helping Hand,Trick Room,Foul Play,61
+Chi-Yu,Choice Scarf,Beads of Ruin,Fire,Heat Wave,Snarl,Overheat,Dark Pulse,61
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,61
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Detect,Aqua Jet,Close Combat,Surging Strikes,62
+Ogerpon,Loaded Dice,Defiant,Grass,Spiky Shield,Follow Me,Encore,Bullet Seed,62
+Pelipper,Safety Goggles,Drizzle,Grass,Hurricane,Wide Guard,Weather Ball,Helping Hand,62
+Landorus,Choice Scarf,Sheer Force,Ghost,Earth Power,U-turn,Sandsear Storm,Sludge Bomb,62
+Incineroar,Rocky Helmet,Intimidate,Grass,Knock Off,Will-O-Wisp,Fake Out,Parting Shot,62
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Normal,Protect,Trick Room,High Horsepower,Glacial Lance,62
+Dondozo,Leftovers,Unaware,Grass,Wave Crash,Order Up,Substitute,Protect,63
+Weezing-Galar,Covert Cloak,Neutralizing Gas,Dark,Strange Steam,Toxic Spikes,Poison Gas,Protect,63
+Tatsugiri,Focus Sash,Commander,Stellar,Muddy Water,Draco Meteor,Helping Hand,Protect,63
+Iron Hands,Assault Vest,Quark Drive,Grass,Drain Punch,Wild Charge,Fake Out,Volt Switch,63
+Indeedee-F,Rocky Helmet,Psychic Surge,Fairy,Follow Me,Helping Hand,Psychic,Protect,63
+Calyrex-Shadow,Life Orb,As One (Spectrier),Dark,Astral Barrage,Expanding Force,Nasty Plot,Protect,63
+Chi-Yu,Choice Scarf,Beads of Ruin,Ground,Flamethrower,Heat Wave,Tera Blast,Snarl,64
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,64
+Farigiraf,Electric Seed,Armor Tail,Grass,Foul Play,Psychic Noise,Helping Hand,Trick Room,64
+Miraidon,Life Orb,Hadron Engine,Electric,Electro Drift,Draco Meteor,Volt Switch,Protect,64
+Iron Hands,Assault Vest,Quark Drive,Water,Wild Charge,Drain Punch,Low Kick,Fake Out,64
+Ogerpon,Loaded Dice,Mind’s Eye,Normal,Silk Scarf,Blood Moon,Earth Power,Hyper Voice,64
+Farigiraf,Sitrus Berry,Armor Tail,Grass,Psychic,Foul Play,Helping Hand,Trick Room,65
+Iron Hands,Assault Vest,Quark Drive,Water,Fake Out,Drain Punch,Wild Charge,Low Kick,65
+Amoonguss,Rocky Helmet,Regenerator,Fairy,Spore,Rage Powder,Pollen Puff,Protect,65
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,U-turn,Coaching,65
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,65
+Regidrago,Life Orb,Dragon's Maw,Steel,Dragon Energy,Draco Meteor,Tera Blast,Protect,65
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Dragon,Glacial Lance,High Horsepower,Trick Room,Protect,66
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,66
+Torkoal,Charcoal,Drought,Fire,Eruption,Heat Wave,Helping Hand,Protect,66
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,66
+Flutter Mane,Life Orb,Protosynthesis,Fairy,Dazzling Gleam,Shadow Ball,Moonblast,Protect,66
+Farigiraf,Rocky Helmet,Armor Tail,Dark,Psychic,Foul Play,Helping Hand,Trick Room,66
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Hyper Voice,Earth Power,Blood Moon,Protect,67
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderclap,Draco Meteor,Thunderbolt,Protect,67
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,67
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Ice Spinner,Sacred Sword,Sucker Punch,Protect,67
+Amoonguss,Rocky Helmet,Regenerator,Water,Spore,Rage Powder,Pollen Puff,Protect,67
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Grass,Surging Strikes,Close Combat,Coaching,U-turn,67
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Stomping Tantrum,Spiky Shield,Follow Me,68
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Shadow Ball,Icy Wind,Thunder Wave,68
+Amoonguss,Focus Sash,Regenerator,Ghost,Foul Play,Pollen Puff,Spore,Rage Powder,68
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Tera Starstorm,Earth Power,Protect,Calm Mind,68
+Iron Hands,Assault Vest,Quark Drive,Poison,Wild Charge,Drain Punch,Heavy Slam,Fake Out,68
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Fake Out,Will-O-Wisp,Parting Shot,68
+Clefairy,Eviolite,Friend Guard,Ground,Follow Me,After You,Protect,Helping Hand,69
+Tornadus,Covert Cloak,Prankster,Dark,Bleakwind Storm,Rain Dance,Tailwind,Taunt,69
+Urshifu-Rapid-Strike,Splash Plate,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Protect,69
+Calyrex-Shadow,Life Orb,As One (Spectrier),Grass,Astral Barrage,Giga Drain,Protect,Nasty Plot,69
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,U-turn,Grassy Glide,Fake Out,69
+Smeargle,Focus Sash,Moody,Ghost,Fake Out,Follow Me,Spore,Wide Guard,69
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,70
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Horn Leech,Spiky Shield,Follow Me,70
+Raging Bolt,Life Orb,Protosynthesis,Electric,Thunderbolt,Protect,Draco Meteor,Thunderclap,70
+Clefairy,Eviolite,Friend Guard,Grass,Follow Me,Helping Hand,Protect,Heal Pulse,70
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Normal,Glacial Lance,High Horsepower,Trick Room,Protect,70
+Scream Tail,Booster Energy,Protosynthesis,Dark,Dazzling Gleam,Encore,Disable,Protect,70
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,71
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,71
+Entei,Choice Band,Inner Focus,Normal,Sacred Fire,Extreme Speed,Stone Edge,Flare Blitz,71
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Icicle Crash,Throat Chop,Sucker Punch,Protect,71
+Urshifu-Rapid-Strike,Safety Goggles,Unseen Fist,Water,Surging Strikes,Aqua Jet,Substitute,Protect,71
+Flutter Mane,Booster Energy,Protosynthesis,Grass,Moonblast,Shadow Ball,Icy Wind,Protect,71
+Iron Crown,Life Orb,Quark Drive,Ground,Tachyon Cutter,Psychic,Tera Blast,Protect,72
+Clefairy,Eviolite,Friend Guard,Ground,Helping Hand,Heal Pulse,Follow Me,Protect,72
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Protect,72
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,72
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,72
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Normal,Glacial Lance,High Horsepower,Trick Room,Protect,72
+Amoonguss,Covert Cloak,Regenerator,Water,Spore,Rage Powder,Pollen Puff,Clear Smog,73
+Incineroar,Rocky Helmet,Intimidate,Water,Knock Off,Parting Shot,Taunt,Fake Out,73
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Grass,Glacial Lance,High Horsepower,Trick Room,Protect,73
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Ghost,Surging Strikes,Close Combat,Coaching,U-turn,73
+Pelipper,Focus Sash,Drizzle,Ghost,Hurricane,Weather Ball,Wide Guard,Helping Hand,73
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Thunderclap,Draco Meteor,Protect,73
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,74
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Volt Switch,Draco Meteor,Thunderclap,Thunderbolt,74
+Flutter Mane,Focus Sash,Protosynthesis,Fairy,Protect,Taunt,Moonblast,Icy Wind,74
+Hariyama,Rocky Helmet,Thick Fat,Fighting,Close Combat,Knock Off,Fake Out,Wide Guard,74
+Farigiraf,Safety Goggles,Armor Tail,Water,Foul Play,Helping Hand,Trick Room,Psychic Noise,74
+Groudon,Clear Amulet,Drought,Fire,Precipice Blades,Heat Crash,Bulk Up,Protect,74
+Iron Hands,Assault Vest,Quark Drive,Grass,Drain Punch,Wild Charge,Volt Switch,Fake Out,75
+Calyrex-Shadow,Sitrus Berry,As One (Spectrier),Fighting,Astral Barrage,Tera Blast,Nasty Plot,Protect,75
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Icicle Crash,Throat Chop,Sucker Punch,Protect,75
+Clefairy,Eviolite,Friend Guard,Grass,Follow Me,Helping Hand,After You,Protect,75
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Ghost,Surging Strikes,Close Combat,U-turn,Coaching,75
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,75
+Whimsicott,Covert Cloak,Prankster,Water,Light Screen,Moonblast,Tailwind,Encore,76
+Terapagos-Terastal,Choice Specs,Tera Shift,Stellar,Tera Starstorm,Earth Power,Dark Pulse,Hyper Beam,76
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Protect,76
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Spiky Shield,Ivy Cudgel,Horn Leech,Follow Me,76
+Farigiraf,Safety Goggles,Armor Tail,Fairy,Foul Play,Psychic Noise,Helping Hand,Trick Room,76
+Landorus,Life Orb,Sheer Force,Poison,Earth Power,Sludge Bomb,Sandsear Storm,Protect,76
+Farigiraf,Throat Spray,Armor Tail,Fire,Hyper Voice,Helping Hand,Trick Room,Psychic Noise,77
+Iron Hands,Assault Vest,Quark Drive,Grass,Fake Out,Drain Punch,Heavy Slam,Wild Charge,77
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Hyper Voice,Blood Moon,Earth Power,Protect,77
+Smeargle,Focus Sash,Moody,Ghost,Fake Out,Follow Me,Spore,Wide Guard,77
+Urshifu,Choice Band,Unseen Fist,Poison,Wicked Blow,Sucker Punch,Close Combat,Poison Jab,77
+Urshifu,Choice Band,Unseen Fist,Poison,Wicked Blow,Sucker Punch,Close Combat,Poison Jab,77
+Miraidon,Choice Specs,Hadron Engine,Fairy,Volt Switch,Dazzling Gleam,Electro Drift,Draco Meteor,77
+Incineroar,Rocky Helmet,Intimidate,Water,Will-O-Wisp,Parting Shot,Knock Off,Fake Out,78
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Fire,Surging Strikes,Aqua Jet,U-turn,Close Combat,78
+Rillaboom,Assault Vest,Grassy Surge,Fire,U-turn,Wood Hammer,Fake Out,Grassy Glide,78
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Grassy Glide,Ivy Cudgel,Spiky Shield,Follow Me,78
+Lunala,Leftovers,Shadow Shield,Fairy,Moongeist Beam,Moonblast,Calm Mind,Protect,78
+Farigiraf,Grassy Seed,Armor Tail,Water,Roar,Foul Play,Trick Room,Psychic Noise,78
+Calyrex-Shadow,Choice Specs,As One (Spectrier),Ghost,Astral Barrage,Psychic,Shadow Ball,Pollen Puff,79
+Maushold-Four,Rocky Helmet,Friend Guard,Ground,Follow Me,Helping Hand,Feint,Protect,79
+Weezing-Galar,Covert Cloak,Neutralizing Gas,Normal,Strange Steam,Poison Gas,Toxic Spikes,Protect,79
+Dondozo,Leftovers,Unaware,Grass,Earthquake,Order Up,Body Press,Protect,79
+Tatsugiri-Droopy,Assault Vest,Commander,Steel,Muddy Water,Draco Meteor,Counter,Mirror Coat,79
+Mienshao,Focus Sash,Inner Focus,Ghost,Close Combat,Wide Guard,Feint,Fake Out,79
+Urshifu,Choice Band,Unseen Fist,Grass,Wicked Blow,Close Combat,Sucker Punch,Iron Head,80
+Urshifu,Choice Band,Unseen Fist,Grass,Wicked Blow,Close Combat,Sucker Punch,Iron Head,80
+Smeargle,Focus Sash,Own Tempo,Grass,Follow Me,Decorate,Fake Out,Spore,80
+Farigiraf,Life Orb,Armor Tail,Water,Hyper Voice,Shadow Ball,Trick Room,Protect,80
+Indeedee-F,Psychic Seed,Psychic Surge,Grass,Follow Me,Helping Hand,Trick Room,Psychic,80
+Torkoal,Charcoal,Drought,Fire,Eruption,Heat Wave,Weather Ball,Protect,80
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Protect,Trick Room,Close Combat,Glacial Lance,80
+Iron Hands,Assault Vest,Quark Drive,Bug,Fake Out,Drain Punch,Heavy Slam,Wild Charge,81
+Grimmsnarl,Light Clay,Prankster,Ghost,Thunder Wave,Foul Play,Light Screen,Reflect,81
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Blood Moon,Earth Power,Hyper Voice,Protect,81
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Spiky Shield,Horn Leech,Follow Me,81
+Farigiraf,Electric Seed,Armor Tail,Fire,Trick Room,Helping Hand,Psychic Noise,Foul Play,81
+Miraidon,Choice Specs,Hadron Engine,Fairy,Volt Switch,Draco Meteor,Electro Drift,Dazzling Gleam,81
+Altaria,Mental Herb,Cloud Nine,Water,Hurricane,Sing,Tailwind,Roost,82
+Groudon,Life Orb,Drought,Fire,Precipice Blades,Heat Crash,Substitute,Protect,82
+Chi-Yu,Choice Scarf,Beads of Ruin,Fire,Heat Wave,Dark Pulse,Fire Blast,Snarl,82
+Sableye,Focus Sash,Prankster,Normal,Foul Play,Fake Out,Gravity,Skill Swap,82
+Indeedee-F,Psychic Seed,Psychic Surge,Fire,Follow Me,Trick Room,Helping Hand,Psychic,82
+Flutter Mane,Choice Specs,Protosynthesis,Fairy,Moonblast,Hex,Dazzling Gleam,Icy Wind,82
+Farigiraf,Sitrus Berry,Armor Tail,Fairy,Psychic,Foul Play,Helping Hand,Trick Room,83
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Protect,83
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Water,Surging Strikes,Close Combat,Aqua Jet,Detect,83
+Rillaboom,Assault Vest,Grassy Surge,Fire,Wood Hammer,Fake Out,U-turn,Grassy Glide,83
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,83
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Horn Leech,Follow Me,Spiky Shield,83
+Terapagos-Terastal,Leftovers,Tera Shift,Stellar,Tera Starstorm,Substitute,Calm Mind,Protect,84
+Landorus,Choice Scarf,Sheer Force,Fairy,Earth Power,Sandsear Storm,Sludge Bomb,Psychic,84
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Taunt,Thunder Wave,Protect,84
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Sucker Punch,Close Combat,Protect,84
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Sucker Punch,Close Combat,Protect,84
+Incineroar,Safety Goggles,Intimidate,Ghost,Will-O-Wisp,Parting Shot,Knock Off,Fake Out,84
+Amoonguss,Mental Herb,Regenerator,Water,Rage Powder,Spore,Pollen Puff,Protect,84
+Farigiraf,Sitrus Berry,Armor Tail,Fairy,Twin Beam,Foul Play,Trick Room,Helping Hand,85
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Wood Hammer,High Horsepower,Grassy Glide,85
+Kyogre,Mystic Water,Drizzle,Grass,Water Spout,Ice Beam,Origin Pulse,Protect,85
+Electabuzz,Eviolite,Vital Spirit,Ghost,Feint,Thunder,Follow Me,Protect,85
+Tornadus,Focus Sash,Prankster,Dragon,Bleakwind Storm,Hurricane,Tailwind,Protect,85
+Urshifu-Rapid-Strike,Life Orb,Unseen Fist,Grass,Detect,Surging Strikes,Close Combat,Aqua Jet,85
+Rillaboom,Assault Vest,Grassy Surge,Water,Fake Out,Wood Hammer,Grassy Glide,U-turn,86
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Parting Shot,Fake Out,Will-O-Wisp,86
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,86
+Clefairy,Eviolite,Friend Guard,Grass,Follow Me,Helping Hand,Sing,Protect,86
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Grassy Glide,Follow Me,Spiky Shield,86
+Calyrex-Shadow,Spooky Plate,As One (Spectrier),Normal,Astral Barrage,Psychic,Nasty Plot,Protect,86
+Koraidon,Covert Cloak,Orichalcum Pulse,Fire,Collision Course,Dragon Claw,Flare Blitz,Protect,87
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Thunderclap,Thunderbolt,Electroweb,Draco Meteor,87
+Gholdengo,Choice Specs,Good as Gold,Normal,Make It Rain,Shadow Ball,Thunderbolt,Power Gem,87
+Chi-Yu,Choice Scarf,Beads of Ruin,Grass,Heat Wave,Overheat,Dark Pulse,Tera Blast,87
+Flutter Mane,Focus Sash,Protosynthesis,Stellar,Shadow Ball,Dazzling Gleam,Imprison,Trick Room,87
+Dragonite,Choice Band,Inner Focus,Normal,Extreme Speed,Earthquake,Ice Spinner,Outrage,87
+Iron Hands,Assault Vest,Quark Drive,Grass,Drain Punch,Fake Out,Wild Charge,Volt Switch,88
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Blood Moon,Hyper Voice,Earth Power,Protect,88
+Amoonguss,Rocky Helmet,Regenerator,Fairy,Pollen Puff,Spore,Rage Powder,Protect,88
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,Close Combat,Coaching,U-turn,88
+Farigiraf,Sitrus Berry,Armor Tail,Grass,Psychic,Foul Play,Helping Hand,Trick Room,88
+Calyrex-Ice,Never-Melt Ice,As One (Glastrier),Fire,Glacial Lance,High Horsepower,Trick Room,Protect,88
+Raging Bolt,Life Orb,Protosynthesis,Electric,Thunderclap,Draco Meteor,Thunderbolt,Protect,89
+Rillaboom,Miracle Seed,Grassy Surge,Fire,Wood Hammer,Grassy Glide,Taunt,Fake Out,89
+Chi-Yu,Choice Scarf,Beads of Ruin,Ghost,Heat Wave,Overheat,Dark Pulse,Snarl,89
+Koraidon,Assault Vest,Orichalcum Pulse,Fire,Collision Course,Dragon Claw,Flare Blitz,Flame Charge,89
+Flutter Mane,Focus Sash,Protosynthesis,Fairy,Moonblast,Dazzling Gleam,Icy Wind,Protect,89
+Glastrier,Leftovers,Chilling Neigh,Water,Icicle Crash,Body Press,Iron Defense,Protect,89
+Rillaboom,Miracle Seed,Grassy Surge,Grass,Wood Hammer,Grassy Glide,Fake Out,Protect,90
+Flutter Mane,Booster Energy,Protosynthesis,Grass,Moonblast,Icy Wind,Thunder Wave,Protect,90
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,90
+Tyranitar,Focus Sash,Sand Stream,Ghost,Stone Edge,Rock Slide,Knock Off,Protect,90
+Gholdengo,Leftovers,Good as Gold,Normal,Make It Rain,Shadow Ball,Nasty Plot,Protect,90
+Latios,Life Orb,Levitate,Fire,Draco Meteor,Luster Purge,Tera Blast,Protect,90
+Amoonguss,Mental Herb,Regenerator,Water,Sludge Bomb,Spore,Rage Powder,Protect,91
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,91
+Rillaboom,Miracle Seed,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,91
+Raging Bolt,Assault Vest,Protosynthesis,Fairy,Volt Switch,Thunderclap,Draco Meteor,Electroweb,91
+Calyrex-Shadow,Life Orb,As One (Spectrier),Dark,Astral Barrage,Pollen Puff,Nasty Plot,Protect,91
+Incineroar,Rocky Helmet,Intimidate,Water,Knock Off,Parting Shot,Taunt,Fake Out,91
+Clefairy,Eviolite,Friend Guard,Ground,Follow Me,Helping Hand,Sing,Protect,92
+Calyrex-Shadow,Life Orb,As One (Spectrier),Dark,Astral Barrage,Giga Drain,Nasty Plot,Protect,92
+Incineroar,Rocky Helmet,Intimidate,Poison,Parting Shot,Knock Off,Taunt,Fake Out,92
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Aqua Jet,Close Combat,Detect,92
+Raging Bolt,Assault Vest,Protosynthesis,Fairy,Electroweb,Draco Meteor,Thunderclap,Volt Switch,92
+Rillaboom,Clear Amulet,Grassy Surge,Fire,Wood Hammer,Grassy Glide,U-turn,Fake Out,92
+Chien-Pao,Focus Sash,Sword of Ruin,Ghost,Protect,Icicle Crash,Throat Chop,Sucker Punch,93
+Ursaluna-Bloodmoon,Life Orb,Mind’s Eye,Normal,Protect,Blood Moon,Hyper Voice,Earth Power,93
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Protect,Iron Defense,Body Press,Heavy Slam,93
+Electabuzz,Eviolite,Static,Water,Follow Me,Thunder Wave,Taunt,Volt Switch,93
+Whimsicott,Covert Cloak,Prankster,Fire,Tailwind,Light Screen,Encore,Moonblast,93
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Grassy Glide,Wood Hammer,U-turn,93
+Torkoal,Charcoal,Drought,Fire,Eruption,Weather Ball,Clear Smog,Protect,94
+Urshifu,Power Band,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Iron Head,94
+Urshifu,Power Band,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Iron Head,94
+Farigiraf,Safety Goggles,Armor Tail,Fairy,Hyper Voice,Psychic,Shadow Ball,Trick Room,94
+Annihilape,Choice Scarf,Defiant,Grass,Final Gambit,Close Combat,Shadow Claw,Coaching,94
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Water,Glacial Lance,High Horsepower,Trick Room,Protect,94
+Smeargle,Focus Sash,Own Tempo,Grass,Fake Out,Follow Me,Spore,Decorate,94
+Farigiraf,Safety Goggles,Armor Tail,Water,Psychic Noise,Foul Play,Trick Room,Helping Hand,95
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Body Press,Heavy Slam,Wide Guard,Protect,95
+Rillaboom,Assault Vest,Grassy Surge,Fire,Fake Out,Grassy Glide,Wood Hammer,U-turn,95
+Chi-Yu,Choice Scarf,Beads of Ruin,Ground,Heat Wave,Snarl,Overheat,Tera Blast,95
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Grass,Surging Strikes,Close Combat,Taunt,Detect,95
+Raging Bolt,Life Orb,Protosynthesis,Fairy,Thunderbolt,Draco Meteor,Thunderclap,Protect,95
+Rillaboom,Assault Vest,Grassy Surge,Fire,U-turn,Grassy Glide,Fake Out,Wood Hammer,96
+Chi-Yu,Choice Scarf,Beads of Ruin,Ground,Tera Blast,Overheat,Heat Wave,Snarl,96
+Farigiraf,Safety Goggles,Armor Tail,Water,Trick Room,Psychic Noise,Foul Play,Helping Hand,96
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Detect,Close Combat,Taunt,96
+Zamazenta,Rusted Shield,Dauntless Shield,Dragon,Wide Guard,Protect,Heavy Slam,Body Press,96
+Raging Bolt,Life Orb,Protosynthesis,Fairy,Protect,Draco Meteor,Thunderclap,Thunderbolt,96
+Raging Bolt,Booster Energy,Protosynthesis,Fairy,Dragon Pulse,Thunderclap,Calm Mind,Protect,97
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,97
+Rillaboom,Assault Vest,Grassy Surge,Fire,Grassy Glide,Fake Out,Wood Hammer,U-turn,97
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Flare Blitz,Parting Shot,Fake Out,97
+Clefairy,Eviolite,Friend Guard,Grass,Follow Me,Helping Hand,Protect,Heal Pulse,97
+Calyrex-Shadow,Spell Tag,As One (Spectrier),Normal,Astral Barrage,Psychic,Nasty Plot,Protect,97
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Spiky Shield,Horn Leech,Follow Me,98
+Farigiraf,Mental Herb,Armor Tail,Water,Trick Room,Helping Hand,Foul Play,Psychic,98
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Aqua Jet,Close Combat,Protect,98
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Fire,Glacial Lance,Trick Room,High Horsepower,Protect,98
+Raging Bolt,Booster Energy,Protosynthesis,Electric,Thunderbolt,Thunderclap,Draco Meteor,Protect,98
+Rillaboom,Assault Vest,Grassy Surge,Grass,U-turn,Grassy Glide,Wood Hammer,Fake Out,98
+Grimmsnarl,Light Clay,Prankster,Grass,Spirit Break,Reflect,Light Screen,Thunder Wave,99
+Gholdengo,Metal Coat,Good as Gold,Normal,Make It Rain,Shadow Ball,Nasty Plot,Protect,99
+Landorus,Choice Scarf,Sheer Force,Ground,Earth Power,Sludge Bomb,Sandsear Storm,U-turn,99
+Wo-Chien,Leftovers,Tablets of Ruin,Poison,Foul Play,Leech Seed,Pollen Puff,Protect,99
+Kyogre,Assault Vest,Drizzle,Grass,Water Spout,Origin Pulse,Thunder,Ice Beam,99
+Incineroar,Safety Goggles,Intimidate,Ghost,Knock Off,Fake Out,Taunt,Parting Shot,99
+Whimsicott,Covert Cloak,Prankster,Dark,Moonblast,Tailwind,Encore,Light Screen,100
+Ogerpon-Hearthflame,Hearthflame Mask,Mold Breaker,Fire,Ivy Cudgel,Wood Hammer,Follow Me,Spiky Shield,100
+Farigiraf,Electric Seed,Armor Tail,Dragon,Psychic Noise,Helping Hand,Foul Play,Trick Room,100
+Iron Hands,Assault Vest,Quark Drive,Bug,Drain Punch,Wild Charge,Low Kick,Fake Out,100
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,100
+Urshifu,Focus Sash,Unseen Fist,Dark,Wicked Blow,Close Combat,Sucker Punch,Detect,100
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Volt Switch,Dazzling Gleam,100
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Detect,101
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Volt Switch,Draco Meteor,Dazzling Gleam,101
+Chi-Yu,Choice Scarf,Beads of Ruin,Ghost,Heat Wave,Flamethrower,Snarl,Will-O-Wisp,101
+Farigiraf,Electric Seed,Armor Tail,Ground,Expanding Force,Foul Play,Helping Hand,Trick Room,101
+Tornadus,Covert Cloak,Prankster,Normal,Bleakwind Storm,Tailwind,Rain Dance,Substitute,101
+Iron Hands,Assault Vest,Quark Drive,Electric,Low Kick,Wild Charge,Drain Punch,Fake Out,101
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Protect,102
+Whimsicott,Covert Cloak,Prankster,Water,Moonblast,Tailwind,Light Screen,Encore,102
+Iron Leaves,Life Orb,Quark Drive,Normal,Leaf Blade,Psyblade,Megahorn,Protect,102
+Incineroar,Assault Vest,Intimidate,Ghost,Fake Out,U-turn,Knock Off,Flare Blitz,102
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Dazzling Gleam,Draco Meteor,Volt Switch,102
+Iron Hands,Electric Seed,Quark Drive,Fire,Drain Punch,Thunder Punch,Swords Dance,Protect,102
+Landorus,Choice Scarf,Sheer Force,Ghost,U-turn,Earth Power,Sludge Bomb,Sandsear Storm,103
+Calyrex-Ice,Clear Amulet,As One (Glastrier),Normal,Protect,Trick Room,High Horsepower,Glacial Lance,103
+Ogerpon,Loaded Dice,Defiant,Grass,Spiky Shield,Bullet Seed,Follow Me,Encore,103
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Detect,Surging Strikes,Close Combat,Aqua Jet,103
+Pelipper,Safety Goggles,Drizzle,Grass,Helping Hand,Hurricane,Weather Ball,Wide Guard,103
+Incineroar,Rocky Helmet,Intimidate,Grass,Knock Off,Parting Shot,Fake Out,Will-O-Wisp,103
+Raging Bolt,Assault Vest,Protosynthesis,Electric,Thunderbolt,Draco Meteor,Thunderclap,Volt Switch,104
+Flutter Mane,Booster Energy,Protosynthesis,Fairy,Moonblast,Icy Wind,Sunny Day,Protect,104
+Ditto,Focus Sash,Imposter,Ghost,Transform,,,,104
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Power Whip,Ivy Cudgel,Follow Me,Spiky Shield,104
+Koraidon,Clear Amulet,Orichalcum Pulse,Fire,Collision Course,Flare Blitz,Flame Charge,Protect,104
+Chi-Yu,Covert Cloak,Beads of Ruin,Water,Snarl,Heat Wave,Overheat,Taunt,104
+Ogerpon-Cornerstone,Cornerstone Mask,Sturdy,Rock,Ivy Cudgel,Power Whip,Follow Me,Spiky Shield,105
+Indeedee-F,Psychic Seed,Psychic Surge,Water,Alluring Voice,Follow Me,Helping Hand,Trick Room,105
+Whimsicott,Covert Cloak,Prankster,Dark,Moonblast,Helping Hand,Light Screen,Tailwind,105
+Regidrago,Life Orb,Dragon's Maw,Steel,Dragon Energy,Draco Meteor,Dragon Pulse,Protect,105
+Calyrex-Shadow,Choice Specs,As One (Spectrier),Normal,Astral Barrage,Expanding Force,Shadow Ball,Pollen Puff,105
+Urshifu-Rapid-Strike,Choice Scarf,Unseen Fist,Water,Surging Strikes,U-turn,Close Combat,Ice Spinner,105
+Iron Hands,Assault Vest,Quark Drive,Water,Drain Punch,Low Kick,Wild Charge,Fake Out,106
+Farigiraf,Electric Seed,Armor Tail,Water,Psychic,Foul Play,Helping Hand,Trick Room,106
+Whimsicott,Covert Cloak,Prankster,Water,Moonblast,Light Screen,Tailwind,Encore,106
+Miraidon,Choice Specs,Hadron Engine,Fairy,Electro Drift,Draco Meteor,Dazzling Gleam,Volt Switch,106
+Urshifu-Rapid-Strike,Focus Sash,Unseen Fist,Stellar,Surging Strikes,Close Combat,Aqua Jet,Protect,106
+Chi-Yu,Choice Scarf,Beads of Ruin,Ghost,Heat Wave,Overheat,Dark Pulse,Snarl,106
