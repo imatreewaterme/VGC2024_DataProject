@@ -28,58 +28,171 @@ countsPokemon = df['pokemon'].value_counts()
 countsItems = df['helditem'].value_counts()
 
 
-#Top 20#
-top20Abilities = countsAbilites.head(5)
-print(top20Abilities)
+#Most Common#
+top25Abilities = countsAbilites.head(25)
 top20Moves = countsMoves.head(20)
 top20Pokemon = countsPokemon.head(20)
+top20Items = countsItems.head(20)
+uniquePokemonSeries = pd.Series(uniquePokemon)
 
-#top = df.loc[df['pokemon'] == 'Urshifu-Rapid-Strike']
-#sum = top['rank'].sum()
-#averageRank = sum/(top['pokemon'].count())
-#averageRank = str(round(averageRank, 2))
-#print(averageRank)
 ranking = []
+count = []
+for pokemon in uniquePokemonSeries.values:
+    top = df.loc[df['pokemon'] == pokemon]
+    sum = top['rank'].sum()
+    occurrences = top['pokemon'].count()
+    averageRank = sum/occurrences
+    averageRank = int(averageRank)
+    ranking.append(averageRank)
+    count.append(occurrences)
+
+ranking2 = []
 for pokemon in top20Pokemon.index:
     top = df.loc[df['pokemon'] == pokemon]
     sum = top['rank'].sum()
     averageRank = sum/(top['pokemon'].count())
     averageRank = int(averageRank)
-    ranking.append(averageRank)
-series = pd.Series(top20Pokemon.index)
+    ranking2.append(averageRank)
+
+#sort the list by ranking#
+uniquePokemonList = uniquePokemonSeries.values.tolist()
+rankingSorted, uniquePokemonListSorted, countSorted = zip(*sorted(zip(ranking,uniquePokemonList, count)))
+rankingSorted = pd.Series(rankingSorted)
+uniquePokemonListSorted = pd.Series(uniquePokemonListSorted)
+countSorted = pd.Series(countSorted)
+#top 20
+rankingTop20 = rankingSorted.head(20)
+uniquePokemonListTop20 = uniquePokemonListSorted.head(20)
+countTop20=countSorted.head(20)
+
+
+colors21 = [
+    "red","blue","green","orange","purple","cyan","dimgrey","orchid","gold","royalblue",
+    "olive","yellow","pink","sienna","palegreen","steelblue","lavender","tomato","peru","aqua","black"
+          ]
+colors20 = colors21[:20]
+colors26=[
+        "red","blue","green","orange","purple","cyan","dimgrey","orchid","gold","royalblue",
+    "olive","rosybrown","pink","sienna","palegreen","steelblue","lavender","tomato","peru","aqua",
+    "grey","orchid","darkgreen","royalblue","wheat","black"
+]
 
 #Plots#
-#Top 20 Most Common Pokemon - Average Ranking
+
+#Best ranking pokemon and number of teams used in
+
 fig, ax = plt.subplots()
-ax.barh(series, ranking, align='center', color="orange")
+#for i, txt in enumerate(uniquePokemonListTop20):
+ #   ax.annotate(txt,(rankingTop20[i],countTop20[i]))
+
+patches = ax.scatter(rankingTop20,countTop20,c=colors20)
+ax.set_yticks(np.arange(0, 20, 2))
+ax.set_xticks(np.arange(0, 50, 5))
+ax.set_xlabel('Average Ranking')
+ax.set_ylabel('Number of Occurences in 106 Teams')
+#plt.legend(uniquePokemonListTop20.values, bbox_to_anchor=(1, 1), fontsize=9)
+
+ax.legend()
+plt.tight_layout()
+plt.show()
+fig.savefig('top20RankingPokemon.png')
+
+'''
+
+#Scatterplot 
+N = np.size(uniquePokemon)
+colors=np.random.rand(N)
+print(N)
+fig, ax = plt.subplots()
+patches = plt.scatter(ranking,uniquePokemonSeries.index,c=colors, alpha=0.5)
+ax.set_yticks(np.arange(0, 106, 10), label=uniquePokemonSeries.values)
+ax.set_xticks(np.arange(0, 106, 10))
+ax.set_xlabel('Average Ranking for Pokemon')
+ax.set_ylabel('Occurances in 106 Teams')
+plt.tight_layout()
+plt.show()
+fig.savefig('avgRank.png')
+
+
+#GOOD#
+#Top 20 Most Common Pokemon - Average Ranking
+series = pd.Series(top20Pokemon.index)
+fig, ax = plt.subplots()
+patches = ax.barh(series, ranking2, align='center', color=colors21)
 ax.set_yticks(series, labels=series)
 ax.invert_yaxis
 ax.set_xlabel('Rank out of 106')
 ax.set_title('VGC 2024: 20 Most Common Pokemon Avg. Rank')
+ax.bar_label(patches,ranking2)
 plt.tight_layout()
-#plt.show()
-#fig.savefig('avgRank.png')
+plt.show()
+fig.savefig('avgRank.png')
 
+
+#GOOD#
 #Most Common Moves
 series=pd.Series(top20Moves.index)
 series2=pd.Series(top20Moves)
 fig, ax = plt.subplots()
-ax.barh(series, series2, align='center')
+fig.set_size_inches(10.5, 6.5)
+patches = ax.barh(series, series2, align='center', color=colors21)
 ax.set_yticks(series, labels=series)
 ax.invert_yaxis
 ax.set_xlabel('Count for 106 Teams (636 Pokemon)')
 ax.set_title('VGC 2024: Top 20 Most Common Moves')
+ax.legend(patches, top20Moves.index, bbox_to_anchor=(1, 1), fontsize=9)
+ax.bar_label(patches,top20Moves)
 plt.tight_layout()
-#plt.show()
-#fig.savefig('top20moves.png')
+plt.show()
+fig.savefig('top20moves.png')
 
+
+#Good#
 #Most Common Abilities
-series=pd.Series(top20Abilities.index)
-series2=pd.Series(top20Abilities)
-fig, ax = plt.subplots()
+otherAbilities = (countsAbilites.sum() - top25Abilities.sum())
+other = pd.Series([otherAbilities], index=["Other Abilities"])
+top25Abilities = pd.concat([top25Abilities,other])
+series=pd.Series(top25Abilities.index)
+series2=pd.Series(top25Abilities)
 
-ax.bar(series, series2, label=series, color="red")
-ax.set_ylabel("Count out of 636 Pokemon")
-ax.set_title("VGC 2024: Top 20 Most Common Abilities'")
+fig, ax = plt.subplots()
+fig.set_size_inches(10.5, 6.5)
+percent = 100.*top25Abilities/top25Abilities.sum()
+labels = ['{0} - {1:1.2f} %'.format(i,j) for i,j in zip(series,percent)]
+patches = ax.bar(series, series2, color=colors26)
+ax.axes.xaxis.set_ticklabels([])
+ax.set_xlabel("Pokemon Ability")
+ax.set_ylabel("Frequency Out of 616")
+ax.set_title("VGC 2024: Top 25 Most Common Abilities")
+ax.legend(patches, labels, bbox_to_anchor=(1, 1), fontsize=9)
+ax.bar_label(patches,top25Abilities)
 plt.tight_layout()
-#plt.show()
+fig.savefig('top10Abilites.png')
+plt.show()
+
+#Good#
+#Items
+otherItems = (countsItems.sum() - top20Items.sum())
+other = pd.Series([otherItems], index=["Other Items"])
+top20Items = pd.concat([top20Items,other])
+series=pd.Series(top20Items.index)
+series2=pd.Series(top20Items)
+
+fig, ax = plt.subplots()
+fig.set_size_inches(10.5, 6.5)
+percent = 100.*top20Items/106
+labels = ['{1:1.2f}%'.format(i,j) for i,j in zip(series,percent)]
+
+
+patches = ax.barh(series, series2, align='center', color=colors21)
+ax.set_yticks(series, labels=series,)
+ax.invert_yaxis
+ax.set_xlabel("Percentage of 106 Teams Using Item")
+ax.set_label("Held Item Name")
+ax.set_title('VGC 2024: Most Common Held Items')
+ax.bar_label(patches,labels)
+plt.xlim(0,107)
+plt.tight_layout()
+plt.show()
+fig.savefig('heldItems.png')
+'''
